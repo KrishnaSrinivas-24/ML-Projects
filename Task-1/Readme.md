@@ -15,9 +15,13 @@ For this project, I chose a dataset containing stats of weapons from the popular
 ## 📁 Folder Structure
 
 ML-Project/
+
 └── Task-1/
+
 ├── Decision Tree.ipynb # Jupyter notebook with code and analysis
+
 ├── data.csv # Dataset (PUBG weapon stats)
+
 └── README.md # You're reading it
 
 ---
