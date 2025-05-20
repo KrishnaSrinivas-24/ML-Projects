@@ -84,16 +84,7 @@ The target variable is `Weapon Type`, which the model tries to predict.
 ---
 
 ## 📈 Sample Output (Classification Report)
-                  precision    recall   f1-score   support
-Assault Rifle       0.67      1.00      0.80         2
-Designed Marksman   0.33      0.50      0.40         2
-Melee               1.00      1.00      1.00         1
-Pistol              0.00      0.00      0.00         3
-Submachine Gun      0.50      1.00      0.67         1
-Accuracy                                0.56         9
-Macro avg           0.50      0.70      0.57         9
-Weighted avg        0.39      0.56      0.45         9
-
+<pre> ```plaintext precision recall f1-score support Assault Rifle 0.67 1.00 0.80 2 Designed Marksman 0.33 0.50 0.40 2 Melee 1.00 1.00 1.00 1 Pistol 0.00 0.00 0.00 3 Submachine Gun 0.50 1.00 0.67 1 accuracy 0.56 9 macro avg 0.50 0.70 0.57 9 weighted avg 0.39 0.56 0.45 9 ``` </pre>
 
 ⚠️ **Note:** Some classes like "Pistol" were not predicted well. This is likely due to class imbalance or limited dataset size.
 
