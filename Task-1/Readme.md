@@ -84,8 +84,7 @@ The target variable is `Weapon Type`, which the model tries to predict.
 ---
 
 ## 📈 Sample Output (Classification Report)
-                precision    recall   f1-score   support
-
+                  precision    recall   f1-score   support
 Assault Rifle       0.67      1.00      0.80         2
 Designed Marksman   0.33      0.50      0.40         2
 Melee               1.00      1.00      1.00         1
