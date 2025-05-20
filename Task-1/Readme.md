@@ -107,7 +107,7 @@ The model was visualized with all feature splits and decisions shown using `plot
 - How the decision boundaries were formed
 - How classification was achieved
 
-![Decision Tree](./decision_tree.png)
+![Decision Tree](https://github.com/KrishnaSrinivas-24/ML-Projects/blob/main/Task-1/Decision_Tree.png)
 
 ---
 
