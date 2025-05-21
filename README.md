@@ -1,13 +1,19 @@
-#**CODTECH INTERNSHIP TASKS - MACHINE LEARNING**
+# 🚀 CODTECH INTERNSHIP TASKS - MACHINE LEARNING
 
-*COMPANY* : CODTECH IT SOLUTIONS 
+Welcome to the official documentation of my **Machine Learning Internship** at **CodTech IT Solutions**.
 
-*NAME* : MADHIRA KRISHNA SRINIVAS
+---
 
-*INTERN ID* : CT04DN92
+## 🏢 Company Details
 
-*DOMAIN* : MACHINE LEARNING
+- **Company**: CodTech IT Solutions  
+- **Domain**: Machine Learning  
+- **Duration**: 4 Weeks  
+- **Mentor**: Neela Santhosh Kumar  
 
-*DURATION* : 4 WEEKS
+---
 
-*MENTOR* : NEELA SANTHOSH KUMAR
+## 👤 Intern Information
+
+- **Name**: Madhira Krishna Srinivas  
+- **Intern ID**: CT04DN92  
